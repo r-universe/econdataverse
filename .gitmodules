@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "econdatasets"]
+	path = econdatasets
+	url = https://github.com/econdataverse/r-econdatasets
+[submodule "econdataverse"]
+	path = econdataverse
+	url = https://github.com/econdataverse/r-econdataverse
+[submodule "econtools"]
+	path = econtools
+	url = https://github.com/econdataverse/r-econtools
+[submodule "oecdoda"]
+	path = oecdoda
+	url = https://github.com/econdataverse/r-oecdoda
+[submodule "owidapi"]
+	path = owidapi
+	url = https://github.com/econdataverse/r-owidapi
+[submodule "uisapi"]
+	path = uisapi
+	url = https://github.com/econdataverse/r-uisapi
+[submodule "wbwdi"]
+	path = wbwdi
+	url = https://github.com/econdataverse/r-wbwdi
